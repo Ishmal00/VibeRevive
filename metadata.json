@@ -1,0 +1,7 @@
+{
+  "name": "VibeCheck AI",
+  "description": "An interactive, colorful mood-boosting app featuring real-time AI voice agents, personalized activities, mood-strengthening stories, and witty roasts to help you navigate your emotional landscape.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
